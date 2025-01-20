@@ -14,7 +14,7 @@ Expense Tracker 2.0 is a comprehensive application designed to help users manage
 
 ## Features
 - Add and manage income and expenses.
-- Categorize transactions (e.g., food, rent, entertainment).
+- Categorize transactions (e.g., food, bills, tax).
 - Visualize spending trends with charts and graphs.
 - Persistent data storage using a database.
 - Responsive design for mobile and desktop use.
